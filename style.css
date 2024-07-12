@@ -1,0 +1,13 @@
+/* rest */
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100vw;
+  height: 40px;
+  background-color: lightblue;
+}
+ul {
+  list-style-type: none;
+}
