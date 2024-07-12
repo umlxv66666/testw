@@ -11,3 +11,6 @@ header {
 ul {
   list-style-type: none;
 }
+main {
+    background-color: lightcoral;
+}
